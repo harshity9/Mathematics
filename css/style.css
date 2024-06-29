@@ -67,6 +67,15 @@ img{
     width: 100%;
     border-radius: 50px;
 }
-
+.branch{
+    background-color: var(--HEADERCOLOR);
+    display: flex;
+    width: 78%;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.branch1{
+    min-width: 40%;
+}
 
 
